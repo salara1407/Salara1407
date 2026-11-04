@@ -23,8 +23,22 @@
 - 🎯 Meu objetivo é evoluir constantemente e construir novos Projetos.
 
 ---
+## 🍊 Conecte-se comigo
 
-## 🍊 Tecnologias & Ferramentas
+<div align="left">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/SEU_USUARIO_DO_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  🍓 ─── 🍊 ─── 🍓 ─── 🍊 ─── 🍓
+</div>
+
+## 🍓 Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
@@ -36,12 +50,19 @@
 
 ---
 
-## 🍓 Meu Espaço de Aprendizado
+## 🍊 Meu Espaço de Aprendizado
 
 <div align="center">
 
 ![](https://img.shields.io/badge/Linguagens_Principais-Java_%7C_C_%7C_SQL-ff70a6?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Jornada-Estudante_em_Evolução-ff9770?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![](https://profile-counter.glitch.me/Salara1407/count.svg)
+<sub>Visitantes no meu cantinho</sub>
 
 </div>
 
