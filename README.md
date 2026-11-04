@@ -26,16 +26,20 @@
 ## 🍊 Conecte-se comigo
 
 <div align="left">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto: larabeatrizsantos738@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU_USUARIO_DO_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/a.larabeatriz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
+
+  
   🍓 ─── 🍊 ─── 🍓 ─── 🍊 ─── 🍓
+
+  
 </div>
 
 ## 🍓 Tecnologias & Ferramentas
