@@ -30,14 +30,13 @@
 
 <div align="center">
 
-<!-- Linguagens e Ferramentas com cores do tema -->
-<img src="https://img.shields.io/badge/HTML5-FF758F?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-FF8FA3?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7AEF8?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-FF9F1C?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFBF69?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-FF5400?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-FF4D6D?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-ff758f?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-ff8fa3?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-ffb3c1?style=flat-square&logo=javascript&logoColor=4a0e17" />
+<img src="https://img.shields.io/badge/React-ff9f1c?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-ffbf69?style=flat-square&logo=python&logoColor=4a0e17" />
+<img src="https://img.shields.io/badge/Figma-ff7400?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-ff4d6d?style=flat-square&logo=git&logoColor=white" />
 
 </div>
 
