@@ -3,7 +3,7 @@
 <!-- BANNER SUPERIOR -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c1&height=180&section=header&text=🍓%20Bem-vindo(a)%20ao%20meu%20Cantinho!%20🍊&fontSize=35&fontColor=ffffff&fontAlignY=35" width="100%" />
 
-### 🍓 Olá! Eu sou Lara! 🍊
+### 🍓 Olá! Eu sou Lara!
 
 *✨ Aprendendo um pouco mais a cada dia, no ritmo mais doce possível! ✨*
 
@@ -27,9 +27,9 @@
 ## 🍊 Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </div>
