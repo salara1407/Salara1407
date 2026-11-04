@@ -39,7 +39,7 @@
 ## 🍓 Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Salara1407&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff70a6&icon_color=ff9770&text_color=666&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Salara1407&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff70a6&icon_color=ff9770&text_color=666&count_private=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salara1407&layout=compact&theme=rose_pine&hide_border=true&title_color=ff70a6&text_color=666" />
 </div>
 
