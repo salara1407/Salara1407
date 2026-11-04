@@ -36,11 +36,13 @@
 
 ---
 
-## 🍓 Estatísticas no GitHub
+## 🍓 Meu Espaço de Aprendizado
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Salara1407&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff70a6&icon_color=ff9770&text_color=666&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salara1407&layout=compact&theme=rose_pine&hide_border=true&title_color=ff70a6&text_color=666" />
+
+![](https://img.shields.io/badge/Linguagens_Principais-Java_%7C_C_%7C_SQL-ff70a6?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Jornada-Estudante_em_Evolução-ff9770?style=for-the-badge)
+
 </div>
 
 <br>
